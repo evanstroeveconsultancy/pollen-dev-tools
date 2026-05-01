@@ -1,0 +1,9 @@
+{
+  "name": "pollen-dev-tools",
+  "version": "0.2.0",
+  "description": "Development workflow skills for solo agentic development: planning, execution, prompt engineering, backend/frontend patterns, subagent orchestration, and CTOC+ reprompt pre-flight.",
+  "author": {
+    "name": "Evan, Pollen Hospitality"
+  },
+  "keywords": ["planning", "development", "prompt-engineering", "subagents", "workflows", "reprompt", "ctoc"]
+}
