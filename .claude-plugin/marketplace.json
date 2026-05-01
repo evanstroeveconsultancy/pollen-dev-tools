@@ -1,0 +1,12 @@
+{
+  "name": "Pollen Dev Tools",
+  "description": "Development workflow skills for Claude Code / Cowork: planning, execution, prompt engineering, backend/frontend patterns, subagent orchestration, and CTOC+ reprompt pre-flight.",
+  "plugins": [
+    {
+      "id": "pollen-dev-tools",
+      "repo": "thewaratah/pollen-dev-tools",
+      "name": "pollen-dev-tools",
+      "description": "Development workflow skills for solo agentic development: planning, execution, prompt engineering, backend/frontend patterns, subagent orchestration, and CTOC+ reprompt pre-flight."
+    }
+  ]
+}
